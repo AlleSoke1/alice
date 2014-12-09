@@ -757,5 +757,5 @@ class Alice(alice_lib.RoomManager):
 
 if __name__ == "__main__": 
 #	print(ver)
-	Alice.easy_start(['anime-nolimit','hentai-nolimit','animekage','desene-anime-online'],'AliceAishite','S3x123')
+	Alice.easy_start(['anime-nolimit','hentai-nolimit','animekage','desene-anime-online'],'UserName','Password')
 	
